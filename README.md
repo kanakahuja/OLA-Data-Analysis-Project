@@ -33,8 +33,7 @@ This project focuses on **data-driven insights from Ola ride data**, using SQL f
 ---
 
 ## 📸 Screenshots  
-<p align="center">
-  <img src="./assets/ola_dashboard.png" alt="Power BI Report" width="700px"/>
-</p>
+<p>📄 <strong>Project Report:</strong> <a href="https://github.com/kanakahuja/OLA-Data-Analysis-Project/blob/main/Ola_data%20analysis.pdf" target="_blank">Ola Data Analysis Report</a></p>
+
 
 ---
